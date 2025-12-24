@@ -1,5 +1,13 @@
 # Deal Intelligence API 🚀
 
+## Architecture Overview
+
+- API Layer: FastAPI
+- Scraping Layer: Modular web scrapers (multi-source)
+- Intelligence Layer: Explainable deal scoring engine
+- Output: Best-deal decision with reasoning
+
+
 An AI-powered backend system that searches products across websites, compares prices, and intelligently identifies the best available deal with explainable reasoning.
 
 ## Problem
